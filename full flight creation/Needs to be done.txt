@@ -1,0 +1,7 @@
+DOCS passenger association 
+Return flight logic
+CBBG PNR 
+Python - DateTime issue
+Same DOB in DOCS for the Child and INF same as in PNR
+Same surname of INF and PAX
+160. Custom Filter issue for the non pure flights: create new keyword with the new filter or implement the IF logic 
