@@ -1,0 +1,160 @@
+{
+    "templates": [
+        {
+            "description": "single pax flight with Finnair account user",
+            "template": "extra-bag-ancillary-booking-finnair-account"
+        },
+        {
+            "description": "single pax flight with user Makkonen",
+            "template": "extra-bag-ancillary-booking-tuija-makkonen"
+        },
+        {
+            "description": "single pax flight with Platinum user",
+            "template": "extra-bag-ancillary-booking-arvo-platina"
+        },
+        {
+            "description": "single pax flight - pnr does not contain APE element",
+            "template": "guest-journey-no-ape-element"
+        },
+        {
+            "description": "single pax flight - ticket is not issued",
+            "template": "guest-journey-ticket-not-issued"
+        },
+        {
+            "description": "single pax flight with Emma Adelaide",
+            "template": "extra-bag-ancillary-booking-emma-adelaide"
+        },
+        {
+            "description": "single pax flight with Rafal Repinski",
+            "template": "token-invalidation"
+        },
+        {
+            "description": "single pax flight with Liisa Vaha Jarvi",
+            "template": "guest-login-family-name-with-space"
+        },
+        {
+            "description": "return flight PVG - HEL - PVG",
+            "template": "one-upgrade-smoketest"
+        },
+        {
+            "description": "multipax flight HEL - PVG",
+            "template": "one-upgrade-multipax-smoketest"
+        },
+        {
+            "description": "multipax flight HEL - SIN",
+            "template": "economy-comfort-ancillary-booking-2-pax"
+        },
+        {
+            "description": "multipax flight HEL - BCN",
+            "template": "lounge-multipax"
+        },
+        {
+            "description": "multipax flight HEL - BKK",
+            "template": "antti-tester-bkk"
+        },
+        {
+            "description": "multipax flight HEL - BKK Tester as primary pax",
+            "template": "antti-tester-multipax-bkk"
+        },
+        {
+            "description": "single pax flight HEL - BKK Perus as pax",
+            "template": "smoketest-meals"
+        },
+        {
+            "description": "single pax flight HEL - BKK one extra bag (PDBG) on booking",
+            "template": "1-extra-bag-tuija-makkonen"
+        },
+        {
+            "description": "single pax flight HEL - BKK one extra bag (XBGG - Excess piece special charge) on booking",
+            "template": "xbgg-extra-bag-adelaide"
+        },
+        {
+            "description": "single pax flight HEL - BKK with Excess Price Special Price (XBGG) on booking",
+            "template": "XBGG - Excess piece special charge"
+        },
+        {
+            "description": "single pax flight HEL - BCN with Pekka Perus",
+            "template": "regression-testcase-1-phase-1"
+        },
+        {
+            "description": "single pax flight HEL - BCN with Emma Adelaide",
+            "template": "regression-testcase-1-phase-2"
+        },
+        {
+            "description": "single pax flight BCN - HEL with Pekka Perus",
+            "template": "regression-testcase-2-android"
+        },
+        {
+            "description": "single pax flight BCN - HEL with Pekka Perus",
+            "template": "regression-testcase-2"
+        },
+        {
+            "description": "single pax return flight HEL - OSL - HEL",
+            "template": "regression-testcase-8"
+        },
+        {
+            "description": "single pax return flight HEL - DEL - HEL",
+            "template": "regression-testcase-9"
+        },
+        {
+            "description": "single pax return flight HEL - BKK - HEL",
+            "template": "regression-testcase-11"
+        },
+        {
+            "description": "single pax flight HEL - SIN",
+            "template": "regression-testcase-16"
+        },
+        {
+            "description": "multipax flight OSA - HEL",
+            "template": "regression-testcase-18"
+        },
+        {
+            "description": "single pax flight HEL - LHR",
+            "template": "regression-testcase-18-ios"
+        },
+        {
+            "description": "multipax flight HEL - RVN",
+            "template": "regression-testcase-19-ios"
+        },
+        {
+            "description": "singlepax flight HEL - BKK - HEL",
+            "template": "regression-testcase-20-ios"
+        },
+        {
+            "description": "multipax flight HEL - BKK - HEL",
+            "template": "regression-testcase-10"
+        },
+        {
+            "description": "multipax flight HEL - LHR - HEL",
+            "template": "regression-testcase-12-android"
+        },
+        {
+            "description": "multipax flight HEL - PEK - HEL",
+            "template": "regression-testcase-20-android"
+        },
+        {
+            "description": "multipax flight HEL - PEK - HEL with infant",
+            "template": "regression-testcase-21-ios"
+        },
+        {
+            "description": "multipax flight KIX - HEL - KIX with infant and child",
+            "template": "regression-testcase-6"
+        },
+        {
+            "description": "single pax hel umea ARNK GOT HEL",
+            "template": "regression-testcase-5"
+        },
+        {
+            "description": "single pax return fligth OUL via HEL to CKG",
+            "template": "regression-testcase-3-android"
+        },
+        {
+            "description": "multipax via flight",
+            "template": "regression-testcase-7"
+        },
+        {
+            "description": "single pax flight to Cran Canaria with Pekka Perus",
+            "template": "smoketest-meals-shorthaul"
+        }
+    ]
+}
